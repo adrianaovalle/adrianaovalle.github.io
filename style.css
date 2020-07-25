@@ -1,0 +1,29 @@
+.container {
+            background-color: white;
+}   
+
+.card-title {
+             color: darkblue;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn btn-primary {background-color: black;
+
+}
+
+#My_name { color: rgb(73, 70, 70);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 35px;
+     font-weight: bolder;
+     background-color: lightgray;
+}
+
+#My_title { color: rgb(73, 70, 70);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+H2 { color: rgb(73, 70, 70);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
