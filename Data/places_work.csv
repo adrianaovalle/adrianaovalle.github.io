@@ -1,0 +1,38 @@
+Country,City,Lat,Lon,Clients
+Algeria,Algiers,36.753769,3.058756,Sonatrach
+Argentina,Buenos Aires,-34.603683,-58.381557,"YPF, Panamerican, Shell, GyP, XOM, Government"
+Argentina,Neuquen,-38.599361,-69.98008,"YPF, Panamerican, Shell, GyP, Government"
+Azerbaijan,Baku,40.409264,49.867092,BP
+Brazil,Rio de Janeiro,-22.906847,-43.172897,Petrobras
+Canada,Edmonton,53.544388,-113.490929,Shell
+Canada,Calgary,51.048615,-114.070847,"Total, SLB"
+China,Beijin,39.904202,116.407394,Total
+Colombia,Bogota,4.710989,-74.07209,"Ecopetrol, BP, ANH"
+Colombia,Bucaramanga,7.13118,-73.125031,ICP
+Ecuador,Quito,-0.180653,-78.467834,PetroAmazonas
+France,Paris,48.856613,2.352222,"Total, SLB"
+France,Pau,43.295101,-0.370797,"Total, SLB"
+Germany,Celle,52.621922,10.07858,SLB
+Italy,Milan,45.464203,9.189982,ENI
+Kuwait,Kuwayt City,29.311661,47.481766,KOC
+Malaysia,Kuala Lumpur,3.139003,101.686852,Petronas
+Mexico,Ciudad de Mexico,23.634501,-102.552788,Pemex
+Mexico,Villahermosa,17.98749,-92.919701,Pemex
+Mexico,Poza Rica,20.52713,-97.459,Pemex
+Netherlands,Hague,52.08019,4.31013,Shell
+Norway,Bergen,60.391262,5.322054,Statoil
+Norway,Stavanger,58.964432,5.72625,"Statoil, BP"
+Peru,Lima,-12.046373,-77.042755,"PetroPeru, Plupetrol"
+Poland,Warsaw,53.531441,11.30206,ConocoPhillips
+Russia,Moscow,55.755825,37.617298,GazpromNeft
+Russia,St Petersbourg,59.93848,30.31248,GazpromNeft
+Scotland,Aberdeen,57.149715,-2.094278,"BP, Shell, Total, Elf"
+Trinidad,Port of Spain,10.654901,-61.501926,Perenco
+UK,London,51.507351,-0.127758,BP
+UK,Cambridge,52.219387,0.124293,SLB
+United Arab Emirates,Dubai,25.204849,55.270782,ENOC
+United Arab Emirates,Abu Dhabi,24.466667,54.366669,ADNOC
+USA,Houston,29.807284,-95.367497,"Lukoil, Shell, XOM, Laredo,Saudi Aramco, Cairn, Chevron, Fieldwood, etc,.."
+USA,Dallas,32.78306,-96.80667,"Lukoil, Shell, XOM, Laredo,Saudi Aramco, Cairn, Chevron, Fieldwood, etc,.."
+Venezuela,Caracas,10.488,-66.879,PDVSA
+Venezuela,Maracaibo,10.676803,-71.620549,PDVSA
