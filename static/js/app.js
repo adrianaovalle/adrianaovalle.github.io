@@ -37,7 +37,7 @@ d3.csv('../Data/places_lived.csv').then(function(data){
 
 const myMap2 = L.map("mapid2", {
     center: [15, -40],
-    zoom: 2
+    zoom: 1
   });
 
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -71,7 +71,7 @@ d3.csv('../Data/places_work.csv').then(function(data){
 
 const myMap3 = L.map("mapid3", {
     center: [15, -40],
-    zoom: 2
+    zoom: 1
   });
 
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
